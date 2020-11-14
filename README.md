@@ -1,5 +1,5 @@
 # Class-Example
-Session 3 Example
+# Session 3 Example
 
 Hi! My name is James "Jim" Reeves from Sequim WA. My background consists of 15 years in the aerospace industry followed
 by 5 years in the real estate industry.
